@@ -1,0 +1,8402 @@
+[4m[1m[33mDate Processor[0m
+
+
+[4m[36m1700[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1725[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1750[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1775[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1701[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1726[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1751[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1776[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1702[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1727[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1752[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1777[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1703[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1728[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1753[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1778[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1704[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m1729[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1754[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1779[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1705[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1730[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1755[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1780[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1706[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1731[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m1756[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1781[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1707[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m1732[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1757[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1782[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1708[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1733[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1758[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1783[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1709[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1734[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+[4m[36m1759[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1784[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1710[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1735[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1760[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1785[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1711[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1736[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1761[0m
+ - Easter Sunday:  [36m22/3[0m
+ - goodFriday:  [36m20/3[0m
+ - easterSaturday:  [36m21/3[0m
+ - whitsunday:  [36m10/5[0m
+
+
+[4m[36m1786[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1712[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1737[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1762[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1787[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1713[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1738[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1763[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1788[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m1714[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1739[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1764[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1789[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1715[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1740[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1765[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1790[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1716[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1741[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1766[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1791[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m1717[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1742[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m1767[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1792[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1718[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1743[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1768[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1793[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1719[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1744[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1769[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1794[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1720[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1745[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1770[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1795[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1721[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1746[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1771[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1796[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1722[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1747[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1772[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1797[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1723[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1748[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1773[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1798[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1724[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1749[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1774[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1799[0m
+ - Easter Sunday:  [36m24/3[0m
+ - goodFriday:  [36m22/3[0m
+ - easterSaturday:  [36m23/3[0m
+ - whitsunday:  [36m12/5[0m
+
+
+[4m[36m1800[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1825[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1850[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1875[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1801[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1826[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1851[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1876[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1802[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1827[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1852[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1877[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1803[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1828[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1853[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1878[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1804[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1829[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1854[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1879[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1805[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1830[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1855[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1880[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1806[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1831[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1856[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m1881[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1807[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1832[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1857[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1882[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1808[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1833[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1858[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1883[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m1809[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1834[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1859[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m1884[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1810[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1835[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1860[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1885[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1811[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1836[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1861[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1886[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+[4m[36m1812[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1837[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1862[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1887[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1813[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1838[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1863[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1888[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1814[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1839[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1864[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1889[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1815[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1840[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1865[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1890[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1816[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1841[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1866[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1891[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1817[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1842[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1867[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1892[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1818[0m
+ - Easter Sunday:  [36m22/3[0m
+ - goodFriday:  [36m20/3[0m
+ - easterSaturday:  [36m21/3[0m
+ - whitsunday:  [36m10/5[0m
+
+
+[4m[36m1843[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1868[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1893[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1819[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1844[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1869[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1894[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m1820[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1845[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m1870[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1895[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1821[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1846[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1871[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1896[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1822[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1847[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1872[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1897[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1823[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1848[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m1873[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1898[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1824[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1849[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1874[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1899[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1900[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1925[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1950[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1975[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1901[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1926[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1951[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m1976[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1902[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1927[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1952[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1977[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1903[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1928[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1953[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1978[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1904[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1929[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1954[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1979[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1905[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m1930[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1955[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1980[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1906[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1931[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1956[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1981[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1907[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1932[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1957[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1982[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1908[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1933[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1958[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1983[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1909[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1934[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1959[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1984[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1910[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1935[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1960[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1985[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1911[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1936[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1961[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1986[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1912[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1937[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1962[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1987[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1913[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m1938[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1963[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1988[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1914[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1939[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1964[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1989[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1915[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1940[0m
+ - Easter Sunday:  [36m24/3[0m
+ - goodFriday:  [36m22/3[0m
+ - easterSaturday:  [36m23/3[0m
+ - whitsunday:  [36m12/5[0m
+
+
+[4m[36m1965[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m1990[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m1916[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m1941[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m1966[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m1991[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1917[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m1942[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m1967[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m1992[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m1918[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m1943[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+[4m[36m1968[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1993[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1919[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1944[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m1969[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1994[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m1920[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m1945[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1970[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m1995[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1921[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m1946[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m1971[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m1996[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m1922[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m1947[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m1972[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m1997[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m1923[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m1948[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m1973[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m1998[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m1924[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m1949[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m1974[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m1999[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2000[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m2025[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2050[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2075[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2001[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2026[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2051[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2076[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2002[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2027[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2052[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2077[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2003[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2028[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2053[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2078[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2004[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2029[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2054[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2079[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m2005[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2030[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2055[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2080[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2006[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2031[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2056[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2081[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2007[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2032[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2057[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2082[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2008[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m2033[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2058[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2083[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2009[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2034[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2059[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2084[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2010[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2035[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2060[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2085[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2011[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m2036[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2061[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2086[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2012[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2037[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2062[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2087[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2013[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2038[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+[4m[36m2063[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2088[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2014[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2039[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2064[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2089[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2015[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2040[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2065[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2090[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2016[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2041[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2066[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2091[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2017[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2042[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2067[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2092[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2018[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2043[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2068[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2093[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2019[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2044[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2069[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2094[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2020[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2045[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2070[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2095[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m2021[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2046[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2071[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2096[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2022[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2047[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2072[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2097[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2023[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2048[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2073[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2098[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2024[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2049[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2074[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2099[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2100[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2125[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2150[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2175[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2101[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2126[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2151[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2176[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2102[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2127[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2152[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m2177[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2103[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2128[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2153[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2178[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2104[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2129[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2154[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2179[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2105[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2130[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2155[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2180[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2106[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2131[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2156[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2181[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2107[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2132[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2157[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2182[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2108[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2133[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2158[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2183[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2109[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2134[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2159[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2184[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2110[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2135[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2160[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m2185[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2111[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2136[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2161[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2186[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2112[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2137[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2162[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2187[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2113[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2138[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2163[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m2188[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2114[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2139[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2164[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2189[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2115[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2140[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2165[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2190[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+[4m[36m2116[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2141[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2166[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2191[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2117[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2142[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2167[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2192[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2118[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2143[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2168[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2193[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2119[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2144[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2169[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2194[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2120[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2145[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2170[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2195[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2121[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2146[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2171[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2196[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2122[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2147[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2172[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2197[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2123[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2148[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2173[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2198[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2124[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2149[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2174[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2199[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2200[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2225[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2250[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2275[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2201[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2226[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2251[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2276[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2202[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2227[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2252[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2277[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2203[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2228[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+[4m[36m2253[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2278[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2204[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2229[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2254[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2279[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2205[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2230[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2255[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2280[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2206[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2231[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+[4m[36m2256[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2281[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2207[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2232[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+[4m[36m2257[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2282[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2208[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2233[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2258[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+[4m[36m2283[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2209[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2234[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2259[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2284[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2210[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2235[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2260[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2285[0m
+ - Easter Sunday:  [36m22/3[0m
+ - goodFriday:  [36m20/3[0m
+ - easterSaturday:  [36m21/3[0m
+ - whitsunday:  [36m10/5[0m
+
+
+[4m[36m2211[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2236[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2261[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2286[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2212[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2237[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2262[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2287[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2213[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2238[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2263[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2288[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+[4m[36m2214[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+[4m[36m2239[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2264[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2289[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2215[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2240[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2265[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2290[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2216[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2241[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2266[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+[4m[36m2291[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2217[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+[4m[36m2242[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+[4m[36m2267[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+[4m[36m2292[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2218[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+[4m[36m2243[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+[4m[36m2268[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2293[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+[4m[36m2219[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+[4m[36m2244[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2269[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+[4m[36m2294[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2220[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+[4m[36m2245[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+[4m[36m2270[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+[4m[36m2295[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+[4m[36m2221[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+[4m[36m2246[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+[4m[36m2271[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+[4m[36m2296[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+[4m[36m2222[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+[4m[36m2247[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+[4m[36m2272[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+[4m[36m2297[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2223[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+[4m[36m2248[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+[4m[36m2273[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+[4m[36m2298[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+[4m[36m2224[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+[4m[36m2249[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+[4m[36m2274[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+[4m[36m2299[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+[4m[1m[33mDate Processor[0m
+
+
+    0 [4m[36m1700[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+    1 [4m[36m1725[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+    2 [4m[36m1750[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+    3 [4m[36m1775[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+    4 [4m[36m1701[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+    5 [4m[36m1726[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+    6 [4m[36m1751[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+    7 [4m[36m1776[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+    8 [4m[36m1702[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+    9 [4m[36m1727[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+   10 [4m[36m1752[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+   11 [4m[36m1777[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+   12 [4m[36m1703[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+   13 [4m[36m1728[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+   14 [4m[36m1753[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+   15 [4m[36m1778[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+   16 [4m[36m1704[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+   17 [4m[36m1729[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+   18 [4m[36m1754[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+   19 [4m[36m1779[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+   20 [4m[36m1705[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+   21 [4m[36m1730[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+   22 [4m[36m1755[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+   23 [4m[36m1780[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+   24 [4m[36m1706[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+   25 [4m[36m1731[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+   26 [4m[36m1756[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+   27 [4m[36m1781[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+   28 [4m[36m1707[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+   29 [4m[36m1732[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+   30 [4m[36m1757[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+   31 [4m[36m1782[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+   32 [4m[36m1708[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+   33 [4m[36m1733[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+   34 [4m[36m1758[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+   35 [4m[36m1783[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+   36 [4m[36m1709[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+   37 [4m[36m1734[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+   38 [4m[36m1759[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+   39 [4m[36m1784[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+   40 [4m[36m1710[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+   41 [4m[36m1735[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+   42 [4m[36m1760[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+   43 [4m[36m1785[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+   44 [4m[36m1711[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+   45 [4m[36m1736[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+   46 [4m[36m1761[0m
+ - Easter Sunday:  [36m22/3[0m
+ - goodFriday:  [36m20/3[0m
+ - easterSaturday:  [36m21/3[0m
+ - whitsunday:  [36m10/5[0m
+
+
+   47 [4m[36m1786[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+   48 [4m[36m1712[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+   49 [4m[36m1737[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+   50 [4m[36m1762[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+   51 [4m[36m1787[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+   52 [4m[36m1713[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+   53 [4m[36m1738[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+   54 [4m[36m1763[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+   55 [4m[36m1788[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+   56 [4m[36m1714[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+   57 [4m[36m1739[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+   58 [4m[36m1764[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+   59 [4m[36m1789[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+   60 [4m[36m1715[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+   61 [4m[36m1740[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+   62 [4m[36m1765[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+   63 [4m[36m1790[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+   64 [4m[36m1716[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+   65 [4m[36m1741[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+   66 [4m[36m1766[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+   67 [4m[36m1791[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+   68 [4m[36m1717[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+   69 [4m[36m1742[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+   70 [4m[36m1767[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+   71 [4m[36m1792[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+   72 [4m[36m1718[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+   73 [4m[36m1743[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+   74 [4m[36m1768[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+   75 [4m[36m1793[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+   76 [4m[36m1719[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+   77 [4m[36m1744[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+   78 [4m[36m1769[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+   79 [4m[36m1794[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+   80 [4m[36m1720[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+   81 [4m[36m1745[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+   82 [4m[36m1770[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+   83 [4m[36m1795[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+   84 [4m[36m1721[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+   85 [4m[36m1746[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+   86 [4m[36m1771[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+   87 [4m[36m1796[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+   88 [4m[36m1722[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+   89 [4m[36m1747[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+   90 [4m[36m1772[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+   91 [4m[36m1797[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+   92 [4m[36m1723[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+   93 [4m[36m1748[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+   94 [4m[36m1773[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+   95 [4m[36m1798[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+   96 [4m[36m1724[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+   97 [4m[36m1749[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+   98 [4m[36m1774[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+   99 [4m[36m1799[0m
+ - Easter Sunday:  [36m24/3[0m
+ - goodFriday:  [36m22/3[0m
+ - easterSaturday:  [36m23/3[0m
+ - whitsunday:  [36m12/5[0m
+
+
+  100 [4m[36m1800[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  101 [4m[36m1825[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  102 [4m[36m1850[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  103 [4m[36m1875[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  104 [4m[36m1801[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  105 [4m[36m1826[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  106 [4m[36m1851[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  107 [4m[36m1876[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  108 [4m[36m1802[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  109 [4m[36m1827[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  110 [4m[36m1852[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  111 [4m[36m1877[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  112 [4m[36m1803[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  113 [4m[36m1828[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  114 [4m[36m1853[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  115 [4m[36m1878[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  116 [4m[36m1804[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  117 [4m[36m1829[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  118 [4m[36m1854[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  119 [4m[36m1879[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  120 [4m[36m1805[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  121 [4m[36m1830[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  122 [4m[36m1855[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  123 [4m[36m1880[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  124 [4m[36m1806[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  125 [4m[36m1831[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  126 [4m[36m1856[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+  127 [4m[36m1881[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  128 [4m[36m1807[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  129 [4m[36m1832[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  130 [4m[36m1857[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  131 [4m[36m1882[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  132 [4m[36m1808[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  133 [4m[36m1833[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  134 [4m[36m1858[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  135 [4m[36m1883[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  136 [4m[36m1809[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  137 [4m[36m1834[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  138 [4m[36m1859[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+  139 [4m[36m1884[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  140 [4m[36m1810[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  141 [4m[36m1835[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  142 [4m[36m1860[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  143 [4m[36m1885[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  144 [4m[36m1811[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  145 [4m[36m1836[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  146 [4m[36m1861[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  147 [4m[36m1886[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+  148 [4m[36m1812[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  149 [4m[36m1837[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  150 [4m[36m1862[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  151 [4m[36m1887[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  152 [4m[36m1813[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  153 [4m[36m1838[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  154 [4m[36m1863[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  155 [4m[36m1888[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  156 [4m[36m1814[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  157 [4m[36m1839[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  158 [4m[36m1864[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  159 [4m[36m1889[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  160 [4m[36m1815[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  161 [4m[36m1840[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  162 [4m[36m1865[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  163 [4m[36m1890[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  164 [4m[36m1816[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  165 [4m[36m1841[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  166 [4m[36m1866[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  167 [4m[36m1891[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  168 [4m[36m1817[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  169 [4m[36m1842[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  170 [4m[36m1867[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  171 [4m[36m1892[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  172 [4m[36m1818[0m
+ - Easter Sunday:  [36m22/3[0m
+ - goodFriday:  [36m20/3[0m
+ - easterSaturday:  [36m21/3[0m
+ - whitsunday:  [36m10/5[0m
+
+
+  173 [4m[36m1843[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  174 [4m[36m1868[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  175 [4m[36m1893[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  176 [4m[36m1819[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  177 [4m[36m1844[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  178 [4m[36m1869[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  179 [4m[36m1894[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  180 [4m[36m1820[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  181 [4m[36m1845[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+  182 [4m[36m1870[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  183 [4m[36m1895[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  184 [4m[36m1821[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  185 [4m[36m1846[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  186 [4m[36m1871[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  187 [4m[36m1896[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  188 [4m[36m1822[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  189 [4m[36m1847[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  190 [4m[36m1872[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  191 [4m[36m1897[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  192 [4m[36m1823[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  193 [4m[36m1848[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  194 [4m[36m1873[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  195 [4m[36m1898[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  196 [4m[36m1824[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  197 [4m[36m1849[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  198 [4m[36m1874[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  199 [4m[36m1899[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  200 [4m[36m1900[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  201 [4m[36m1925[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  202 [4m[36m1950[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  203 [4m[36m1975[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  204 [4m[36m1901[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  205 [4m[36m1926[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  206 [4m[36m1951[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  207 [4m[36m1976[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  208 [4m[36m1902[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  209 [4m[36m1927[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  210 [4m[36m1952[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  211 [4m[36m1977[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  212 [4m[36m1903[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  213 [4m[36m1928[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  214 [4m[36m1953[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  215 [4m[36m1978[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  216 [4m[36m1904[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  217 [4m[36m1929[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  218 [4m[36m1954[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  219 [4m[36m1979[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  220 [4m[36m1905[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  221 [4m[36m1930[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  222 [4m[36m1955[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  223 [4m[36m1980[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  224 [4m[36m1906[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  225 [4m[36m1931[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  226 [4m[36m1956[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  227 [4m[36m1981[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  228 [4m[36m1907[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  229 [4m[36m1932[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  230 [4m[36m1957[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  231 [4m[36m1982[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  232 [4m[36m1908[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  233 [4m[36m1933[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  234 [4m[36m1958[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  235 [4m[36m1983[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  236 [4m[36m1909[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  237 [4m[36m1934[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  238 [4m[36m1959[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  239 [4m[36m1984[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  240 [4m[36m1910[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  241 [4m[36m1935[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  242 [4m[36m1960[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  243 [4m[36m1985[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  244 [4m[36m1911[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  245 [4m[36m1936[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  246 [4m[36m1961[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  247 [4m[36m1986[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  248 [4m[36m1912[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  249 [4m[36m1937[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  250 [4m[36m1962[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  251 [4m[36m1987[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  252 [4m[36m1913[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+  253 [4m[36m1938[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  254 [4m[36m1963[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  255 [4m[36m1988[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  256 [4m[36m1914[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  257 [4m[36m1939[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  258 [4m[36m1964[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  259 [4m[36m1989[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  260 [4m[36m1915[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  261 [4m[36m1940[0m
+ - Easter Sunday:  [36m24/3[0m
+ - goodFriday:  [36m22/3[0m
+ - easterSaturday:  [36m23/3[0m
+ - whitsunday:  [36m12/5[0m
+
+
+  262 [4m[36m1965[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  263 [4m[36m1990[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  264 [4m[36m1916[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  265 [4m[36m1941[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  266 [4m[36m1966[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  267 [4m[36m1991[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  268 [4m[36m1917[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  269 [4m[36m1942[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  270 [4m[36m1967[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  271 [4m[36m1992[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  272 [4m[36m1918[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  273 [4m[36m1943[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+  274 [4m[36m1968[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  275 [4m[36m1993[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  276 [4m[36m1919[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  277 [4m[36m1944[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  278 [4m[36m1969[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  279 [4m[36m1994[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  280 [4m[36m1920[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  281 [4m[36m1945[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  282 [4m[36m1970[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  283 [4m[36m1995[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  284 [4m[36m1921[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  285 [4m[36m1946[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  286 [4m[36m1971[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  287 [4m[36m1996[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  288 [4m[36m1922[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  289 [4m[36m1947[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  290 [4m[36m1972[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  291 [4m[36m1997[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  292 [4m[36m1923[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  293 [4m[36m1948[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  294 [4m[36m1973[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  295 [4m[36m1998[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  296 [4m[36m1924[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  297 [4m[36m1949[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  298 [4m[36m1974[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  299 [4m[36m1999[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  300 [4m[36m2000[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  301 [4m[36m2025[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  302 [4m[36m2050[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  303 [4m[36m2075[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  304 [4m[36m2001[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  305 [4m[36m2026[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  306 [4m[36m2051[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  307 [4m[36m2076[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  308 [4m[36m2002[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  309 [4m[36m2027[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  310 [4m[36m2052[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  311 [4m[36m2077[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  312 [4m[36m2003[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  313 [4m[36m2028[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  314 [4m[36m2053[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  315 [4m[36m2078[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  316 [4m[36m2004[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  317 [4m[36m2029[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  318 [4m[36m2054[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  319 [4m[36m2079[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  320 [4m[36m2005[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  321 [4m[36m2030[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  322 [4m[36m2055[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  323 [4m[36m2080[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  324 [4m[36m2006[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  325 [4m[36m2031[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  326 [4m[36m2056[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  327 [4m[36m2081[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  328 [4m[36m2007[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  329 [4m[36m2032[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  330 [4m[36m2057[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  331 [4m[36m2082[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  332 [4m[36m2008[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+  333 [4m[36m2033[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  334 [4m[36m2058[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  335 [4m[36m2083[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  336 [4m[36m2009[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  337 [4m[36m2034[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  338 [4m[36m2059[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  339 [4m[36m2084[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  340 [4m[36m2010[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  341 [4m[36m2035[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  342 [4m[36m2060[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  343 [4m[36m2085[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  344 [4m[36m2011[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+  345 [4m[36m2036[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  346 [4m[36m2061[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  347 [4m[36m2086[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  348 [4m[36m2012[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  349 [4m[36m2037[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  350 [4m[36m2062[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  351 [4m[36m2087[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  352 [4m[36m2013[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  353 [4m[36m2038[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+  354 [4m[36m2063[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  355 [4m[36m2088[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  356 [4m[36m2014[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  357 [4m[36m2039[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  358 [4m[36m2064[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  359 [4m[36m2089[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  360 [4m[36m2015[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  361 [4m[36m2040[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  362 [4m[36m2065[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  363 [4m[36m2090[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  364 [4m[36m2016[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  365 [4m[36m2041[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  366 [4m[36m2066[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  367 [4m[36m2091[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  368 [4m[36m2017[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  369 [4m[36m2042[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  370 [4m[36m2067[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  371 [4m[36m2092[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  372 [4m[36m2018[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  373 [4m[36m2043[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  374 [4m[36m2068[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  375 [4m[36m2093[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  376 [4m[36m2019[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  377 [4m[36m2044[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  378 [4m[36m2069[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  379 [4m[36m2094[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  380 [4m[36m2020[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  381 [4m[36m2045[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  382 [4m[36m2070[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  383 [4m[36m2095[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+  384 [4m[36m2021[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  385 [4m[36m2046[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  386 [4m[36m2071[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  387 [4m[36m2096[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  388 [4m[36m2022[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  389 [4m[36m2047[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  390 [4m[36m2072[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  391 [4m[36m2097[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  392 [4m[36m2023[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  393 [4m[36m2048[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  394 [4m[36m2073[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  395 [4m[36m2098[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  396 [4m[36m2024[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  397 [4m[36m2049[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  398 [4m[36m2074[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  399 [4m[36m2099[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  400 [4m[36m2100[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  401 [4m[36m2125[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  402 [4m[36m2150[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  403 [4m[36m2175[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  404 [4m[36m2101[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  405 [4m[36m2126[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  406 [4m[36m2151[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  407 [4m[36m2176[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  408 [4m[36m2102[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  409 [4m[36m2127[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  410 [4m[36m2152[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  411 [4m[36m2177[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  412 [4m[36m2103[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  413 [4m[36m2128[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  414 [4m[36m2153[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  415 [4m[36m2178[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  416 [4m[36m2104[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  417 [4m[36m2129[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  418 [4m[36m2154[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  419 [4m[36m2179[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  420 [4m[36m2105[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  421 [4m[36m2130[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  422 [4m[36m2155[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  423 [4m[36m2180[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  424 [4m[36m2106[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  425 [4m[36m2131[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  426 [4m[36m2156[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  427 [4m[36m2181[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  428 [4m[36m2107[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  429 [4m[36m2132[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  430 [4m[36m2157[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  431 [4m[36m2182[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  432 [4m[36m2108[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  433 [4m[36m2133[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  434 [4m[36m2158[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  435 [4m[36m2183[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  436 [4m[36m2109[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  437 [4m[36m2134[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  438 [4m[36m2159[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  439 [4m[36m2184[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  440 [4m[36m2110[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  441 [4m[36m2135[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  442 [4m[36m2160[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+  443 [4m[36m2185[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  444 [4m[36m2111[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  445 [4m[36m2136[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  446 [4m[36m2161[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  447 [4m[36m2186[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  448 [4m[36m2112[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  449 [4m[36m2137[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  450 [4m[36m2162[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  451 [4m[36m2187[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  452 [4m[36m2113[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  453 [4m[36m2138[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  454 [4m[36m2163[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+  455 [4m[36m2188[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  456 [4m[36m2114[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  457 [4m[36m2139[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  458 [4m[36m2164[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  459 [4m[36m2189[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  460 [4m[36m2115[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  461 [4m[36m2140[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  462 [4m[36m2165[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  463 [4m[36m2190[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+  464 [4m[36m2116[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  465 [4m[36m2141[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  466 [4m[36m2166[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  467 [4m[36m2191[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  468 [4m[36m2117[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  469 [4m[36m2142[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  470 [4m[36m2167[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  471 [4m[36m2192[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  472 [4m[36m2118[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  473 [4m[36m2143[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  474 [4m[36m2168[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  475 [4m[36m2193[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  476 [4m[36m2119[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  477 [4m[36m2144[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  478 [4m[36m2169[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  479 [4m[36m2194[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  480 [4m[36m2120[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  481 [4m[36m2145[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  482 [4m[36m2170[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  483 [4m[36m2195[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  484 [4m[36m2121[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  485 [4m[36m2146[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  486 [4m[36m2171[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  487 [4m[36m2196[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  488 [4m[36m2122[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  489 [4m[36m2147[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  490 [4m[36m2172[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  491 [4m[36m2197[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  492 [4m[36m2123[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  493 [4m[36m2148[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  494 [4m[36m2173[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  495 [4m[36m2198[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  496 [4m[36m2124[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  497 [4m[36m2149[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  498 [4m[36m2174[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  499 [4m[36m2199[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  500 [4m[36m2200[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  501 [4m[36m2225[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  502 [4m[36m2250[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  503 [4m[36m2275[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  504 [4m[36m2201[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  505 [4m[36m2226[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  506 [4m[36m2251[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  507 [4m[36m2276[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  508 [4m[36m2202[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  509 [4m[36m2227[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  510 [4m[36m2252[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  511 [4m[36m2277[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  512 [4m[36m2203[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  513 [4m[36m2228[0m
+ - Easter Sunday:  [36m23/3[0m
+ - goodFriday:  [36m21/3[0m
+ - easterSaturday:  [36m22/3[0m
+ - whitsunday:  [36m11/5[0m
+
+
+  514 [4m[36m2253[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  515 [4m[36m2278[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  516 [4m[36m2204[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  517 [4m[36m2229[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  518 [4m[36m2254[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  519 [4m[36m2279[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  520 [4m[36m2205[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  521 [4m[36m2230[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  522 [4m[36m2255[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  523 [4m[36m2280[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  524 [4m[36m2206[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  525 [4m[36m2231[0m
+ - Easter Sunday:  [36m24/4[0m
+ - goodFriday:  [36m22/4[0m
+ - easterSaturday:  [36m23/4[0m
+ - whitsunday:  [36m12/6[0m
+
+
+  526 [4m[36m2256[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  527 [4m[36m2281[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  528 [4m[36m2207[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  529 [4m[36m2232[0m
+ - Easter Sunday:  [36m8/4[0m
+ - goodFriday:  [36m6/4[0m
+ - easterSaturday:  [36m7/4[0m
+ - whitsunday:  [36m27/5[0m
+
+
+  530 [4m[36m2257[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  531 [4m[36m2282[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  532 [4m[36m2208[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  533 [4m[36m2233[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  534 [4m[36m2258[0m
+ - Easter Sunday:  [36m25/4[0m
+ - goodFriday:  [36m23/4[0m
+ - easterSaturday:  [36m24/4[0m
+ - whitsunday:  [36m13/6[0m
+
+
+  535 [4m[36m2283[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  536 [4m[36m2209[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  537 [4m[36m2234[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  538 [4m[36m2259[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  539 [4m[36m2284[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  540 [4m[36m2210[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  541 [4m[36m2235[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  542 [4m[36m2260[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  543 [4m[36m2285[0m
+ - Easter Sunday:  [36m22/3[0m
+ - goodFriday:  [36m20/3[0m
+ - easterSaturday:  [36m21/3[0m
+ - whitsunday:  [36m10/5[0m
+
+
+  544 [4m[36m2211[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  545 [4m[36m2236[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  546 [4m[36m2261[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  547 [4m[36m2286[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  548 [4m[36m2212[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  549 [4m[36m2237[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  550 [4m[36m2262[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  551 [4m[36m2287[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  552 [4m[36m2213[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  553 [4m[36m2238[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  554 [4m[36m2263[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  555 [4m[36m2288[0m
+ - Easter Sunday:  [36m22/4[0m
+ - goodFriday:  [36m20/4[0m
+ - easterSaturday:  [36m21/4[0m
+ - whitsunday:  [36m10/6[0m
+
+
+  556 [4m[36m2214[0m
+ - Easter Sunday:  [36m27/3[0m
+ - goodFriday:  [36m25/3[0m
+ - easterSaturday:  [36m26/3[0m
+ - whitsunday:  [36m15/5[0m
+
+
+  557 [4m[36m2239[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  558 [4m[36m2264[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  559 [4m[36m2289[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  560 [4m[36m2215[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  561 [4m[36m2240[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  562 [4m[36m2265[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  563 [4m[36m2290[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  564 [4m[36m2216[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  565 [4m[36m2241[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  566 [4m[36m2266[0m
+ - Easter Sunday:  [36m25/3[0m
+ - goodFriday:  [36m23/3[0m
+ - easterSaturday:  [36m24/3[0m
+ - whitsunday:  [36m13/5[0m
+
+
+  567 [4m[36m2291[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  568 [4m[36m2217[0m
+ - Easter Sunday:  [36m30/3[0m
+ - goodFriday:  [36m28/3[0m
+ - easterSaturday:  [36m29/3[0m
+ - whitsunday:  [36m18/5[0m
+
+
+  569 [4m[36m2242[0m
+ - Easter Sunday:  [36m17/4[0m
+ - goodFriday:  [36m15/4[0m
+ - easterSaturday:  [36m16/4[0m
+ - whitsunday:  [36m5/6[0m
+
+
+  570 [4m[36m2267[0m
+ - Easter Sunday:  [36m14/4[0m
+ - goodFriday:  [36m12/4[0m
+ - easterSaturday:  [36m13/4[0m
+ - whitsunday:  [36m2/6[0m
+
+
+  571 [4m[36m2292[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  572 [4m[36m2218[0m
+ - Easter Sunday:  [36m12/4[0m
+ - goodFriday:  [36m10/4[0m
+ - easterSaturday:  [36m11/4[0m
+ - whitsunday:  [36m31/5[0m
+
+
+  573 [4m[36m2243[0m
+ - Easter Sunday:  [36m9/4[0m
+ - goodFriday:  [36m7/4[0m
+ - easterSaturday:  [36m8/4[0m
+ - whitsunday:  [36m28/5[0m
+
+
+  574 [4m[36m2268[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  575 [4m[36m2293[0m
+ - Easter Sunday:  [36m26/3[0m
+ - goodFriday:  [36m24/3[0m
+ - easterSaturday:  [36m25/3[0m
+ - whitsunday:  [36m14/5[0m
+
+
+  576 [4m[36m2219[0m
+ - Easter Sunday:  [36m4/4[0m
+ - goodFriday:  [36m2/4[0m
+ - easterSaturday:  [36m3/4[0m
+ - whitsunday:  [36m23/5[0m
+
+
+  577 [4m[36m2244[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  578 [4m[36m2269[0m
+ - Easter Sunday:  [36m18/4[0m
+ - goodFriday:  [36m16/4[0m
+ - easterSaturday:  [36m17/4[0m
+ - whitsunday:  [36m6/6[0m
+
+
+  579 [4m[36m2294[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  580 [4m[36m2220[0m
+ - Easter Sunday:  [36m23/4[0m
+ - goodFriday:  [36m21/4[0m
+ - easterSaturday:  [36m22/4[0m
+ - whitsunday:  [36m11/6[0m
+
+
+  581 [4m[36m2245[0m
+ - Easter Sunday:  [36m13/4[0m
+ - goodFriday:  [36m11/4[0m
+ - easterSaturday:  [36m12/4[0m
+ - whitsunday:  [36m1/6[0m
+
+
+  582 [4m[36m2270[0m
+ - Easter Sunday:  [36m10/4[0m
+ - goodFriday:  [36m8/4[0m
+ - easterSaturday:  [36m9/4[0m
+ - whitsunday:  [36m29/5[0m
+
+
+  583 [4m[36m2295[0m
+ - Easter Sunday:  [36m7/4[0m
+ - goodFriday:  [36m5/4[0m
+ - easterSaturday:  [36m6/4[0m
+ - whitsunday:  [36m26/5[0m
+
+
+  584 [4m[36m2221[0m
+ - Easter Sunday:  [36m15/4[0m
+ - goodFriday:  [36m13/4[0m
+ - easterSaturday:  [36m14/4[0m
+ - whitsunday:  [36m3/6[0m
+
+
+  585 [4m[36m2246[0m
+ - Easter Sunday:  [36m5/4[0m
+ - goodFriday:  [36m3/4[0m
+ - easterSaturday:  [36m4/4[0m
+ - whitsunday:  [36m24/5[0m
+
+
+  586 [4m[36m2271[0m
+ - Easter Sunday:  [36m2/4[0m
+ - goodFriday:  [36m31/3[0m
+ - easterSaturday:  [36m1/4[0m
+ - whitsunday:  [36m21/5[0m
+
+
+  587 [4m[36m2296[0m
+ - Easter Sunday:  [36m19/4[0m
+ - goodFriday:  [36m17/4[0m
+ - easterSaturday:  [36m18/4[0m
+ - whitsunday:  [36m7/6[0m
+
+
+  588 [4m[36m2222[0m
+ - Easter Sunday:  [36m31/3[0m
+ - goodFriday:  [36m29/3[0m
+ - easterSaturday:  [36m30/3[0m
+ - whitsunday:  [36m19/5[0m
+
+
+  589 [4m[36m2247[0m
+ - Easter Sunday:  [36m28/3[0m
+ - goodFriday:  [36m26/3[0m
+ - easterSaturday:  [36m27/3[0m
+ - whitsunday:  [36m16/5[0m
+
+
+  590 [4m[36m2272[0m
+ - Easter Sunday:  [36m21/4[0m
+ - goodFriday:  [36m19/4[0m
+ - easterSaturday:  [36m20/4[0m
+ - whitsunday:  [36m9/6[0m
+
+
+  591 [4m[36m2297[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  592 [4m[36m2223[0m
+ - Easter Sunday:  [36m20/4[0m
+ - goodFriday:  [36m18/4[0m
+ - easterSaturday:  [36m19/4[0m
+ - whitsunday:  [36m8/6[0m
+
+
+  593 [4m[36m2248[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
+
+
+  594 [4m[36m2273[0m
+ - Easter Sunday:  [36m6/4[0m
+ - goodFriday:  [36m4/4[0m
+ - easterSaturday:  [36m5/4[0m
+ - whitsunday:  [36m25/5[0m
+
+
+  595 [4m[36m2298[0m
+ - Easter Sunday:  [36m3/4[0m
+ - goodFriday:  [36m1/4[0m
+ - easterSaturday:  [36m2/4[0m
+ - whitsunday:  [36m22/5[0m
+
+
+  596 [4m[36m2224[0m
+ - Easter Sunday:  [36m11/4[0m
+ - goodFriday:  [36m9/4[0m
+ - easterSaturday:  [36m10/4[0m
+ - whitsunday:  [36m30/5[0m
+
+
+  597 [4m[36m2249[0m
+ - Easter Sunday:  [36m1/4[0m
+ - goodFriday:  [36m30/3[0m
+ - easterSaturday:  [36m31/3[0m
+ - whitsunday:  [36m20/5[0m
+
+
+  598 [4m[36m2274[0m
+ - Easter Sunday:  [36m29/3[0m
+ - goodFriday:  [36m27/3[0m
+ - easterSaturday:  [36m28/3[0m
+ - whitsunday:  [36m17/5[0m
+
+
+  599 [4m[36m2299[0m
+ - Easter Sunday:  [36m16/4[0m
+ - goodFriday:  [36m14/4[0m
+ - easterSaturday:  [36m15/4[0m
+ - whitsunday:  [36m4/6[0m
